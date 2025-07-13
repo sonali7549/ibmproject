@@ -10,7 +10,6 @@ Predicting salary accurately is essential for HR analytics, job portals, and wor
 
 - **IBM Watsonx.ai Studio**
 - **IBM Cloud Object Storage**
-- **Jupyter Notebook (Watsonx Notebook)**
 - **Python (Pandas, scikit-learn, matplotlib)**
 - **Git & GitHub**
 
